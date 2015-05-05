@@ -1,2 +1,2 @@
-# image_procerssing
+# image_processing
 for YZU course assignment
